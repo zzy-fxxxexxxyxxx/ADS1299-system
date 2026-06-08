@@ -1,0 +1,1 @@
+这是一个基于ESP32和级联ADS的弱电信号采集系统,相关内容参考飞书文档https://ycn4xbxys908.feishu.cn/wiki/NtzmwfHZMizIxRkcxgRciDUDnBf
